@@ -732,7 +732,14 @@
   resolved "https://registry.yarnpkg.com/@esbuild/win32-x64/-/win32-x64-0.18.12.tgz#1da26735ce5954bf914f8f2117b5096c548bbba2"
   integrity sha512-O0UYQVkvfM/jO8a4OwoV0mAKSJw+mjWTAd1MJd/1FCX6uiMdLmMRPK/w6e9OQ0ob2WGxzIm9va/KG0Ja4zIOgg==
 
-"@iconify/types@^2.0.0":
+"@iconify-json/tabler@^1.1.84":
+  version "1.1.84"
+  resolved "https://registry.yarnpkg.com/@iconify-json/tabler/-/tabler-1.1.84.tgz#947ad409fd70de416cfc66ee12d0c8eedd2abc98"
+  integrity sha512-XliiqnH4M6tS+qIbabnqTjgfT0PiEYy+93EWgx8hKiJyKGihfiGpWBKstNGfGc785T3uR9D+jjL9GXikDOnlug==
+  dependencies:
+    "@iconify/types" "*"
+
+"@iconify/types@*", "@iconify/types@^2.0.0":
   version "2.0.0"
   resolved "https://registry.yarnpkg.com/@iconify/types/-/types-2.0.0.tgz#ab0e9ea681d6c8a1214f30cd741fe3a20cc57f57"
   integrity sha512-+wluvCrRhXrhyOmRDJ3q8mux9JkKy5SJ/v8ol2tu4FVjyYvtEzkc/3pK15ET6RKg4b4w4BmTk1+gsCUhf21Ykg==

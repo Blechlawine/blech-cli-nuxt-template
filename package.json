@@ -7,12 +7,14 @@
         "dev": "nuxt dev",
         "generate": "nuxt generate",
         "preview": "nuxt preview",
-        "postinstall": "nuxt prepare"
+        "postinstall": "nuxt prepare",
+        "format": "rome format --write ."
     },
     "devDependencies": {
+        "@iconify-json/tabler": "^1.1.84",
         "@nuxtjs/i18n": "^8.0.0-beta.13",
-        "rome": "^12.1.3",
-        "nuxt": "^3.6.2"
+        "nuxt": "^3.6.2",
+        "rome": "^12.1.3"
     },
     "dependencies": {
         "@pinia/nuxt": "^0.4.11",
